@@ -1,22 +1,9 @@
 # OtherPublicAPI
+
 [![Test Status](https://travis-ci.org/douban/rexxar-ios.svg?branch=master)](https://travis-ci.org/douban/rexxar-ios)
 [![Language](https://img.shields.io/badge/language-ObjC-blue.svg)](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)  
 
 [Swift版本点击这里](https://github.com/Daniel-zww/OtherPublicAPISwift)
-
-### 介绍
-
-这是一个用于iOS开发的各种开源库、开源资料、开源技术等等的索引库.
-
-github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
-
-### 使用方法
-
-根据目录关键字搜索，记得包含@，以保证搜索目录关键字的唯一性。
-
-### 问题反馈
-
-期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见（直接提交issues即可）。请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并提交pull request。目录问题大家提出issues后楼主会及时更改的。
 
 ###  目录
 - [参考@](#参考)
